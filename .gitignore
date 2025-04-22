@@ -1,0 +1,59 @@
+# Byte-compiled  optimized  DLL files
+__pycache__
+.py[cod]
+$py.class
+
+# C extensions (binary files)
+.so
+.pyd
+
+# Virtual environment related
+.venv
+venv
+env
+pyvenv.cfg
+.egg-info
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+.ipynb.bak
+
+# HTML and temporary files (based on your untracked files)
+.html
+.log
+.tmp
+.swp
+.bak
+.dump
+
+# OS generated files - often thumbs.db, .DS_Store, etc.
+.DS_Store
+Thumbs.db
+
+# Log files
+.log
+
+# Local configuration files (often contain secrets)
+config.ini
+secrets.json
+.env
+
+# Build and distribution files
+build
+dist
+sdist
+.egg
+.whl
+MANIFEST
+
+# IDE specific files
+.idea
+.project
+.classpath
+.iml
+.ipr
+.iws
+.vscode
+
+# Temporary files created by operating systems or editors
+~$
